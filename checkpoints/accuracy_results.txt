@@ -1,0 +1,10 @@
+Epoch 1: Accuracy = 95.3790%
+Epoch 2: Accuracy = 95.3609%
+Epoch 3: Accuracy = 95.6564%
+Epoch 4: Accuracy = 95.3609%
+Epoch 5: Accuracy = 95.5512%
+Epoch 6: Accuracy = 95.5095%
+Epoch 7: Accuracy = 95.7107%
+Epoch 8: Accuracy = 96.0044%
+Epoch 9: Accuracy = 96.0117%
+Epoch 10: Accuracy = 95.9954%
